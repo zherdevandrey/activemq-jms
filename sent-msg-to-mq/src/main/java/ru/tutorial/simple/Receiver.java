@@ -1,4 +1,4 @@
-package tutorial.com.simple;
+package ru.tutorial.simple;
 
 import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;

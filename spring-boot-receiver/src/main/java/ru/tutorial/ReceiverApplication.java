@@ -1,4 +1,4 @@
-package tutorial.com;
+package ru.tutorial;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
